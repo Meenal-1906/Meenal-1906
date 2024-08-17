@@ -2,9 +2,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on: Flutter Projects
-- 🌱 I’m currently learning: Flutter
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on: Flutter projects
+- 🌱 I’m currently learning: Flutter, Azure fundamentals, JAVA
 - 📫 How to reach me: guptameenal1906@gmail.com
 
 <!---
